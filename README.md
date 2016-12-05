@@ -22,6 +22,10 @@ $ python masterminder.py ABCD
 where ABCD is any string of four colors that represent the secret configuration
 (for example, WWOO for white-white-orange-orange).
 
+E.g.
+====
+<img width="663" alt="A screenshot of the program." src="https://cloud.githubusercontent.com/assets/1410202/20872389/adca0270-ba63-11e6-93cc-a751ae487be8.png">
+
 Behind the scenes
 =================
 
